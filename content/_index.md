@@ -1,32 +1,24 @@
 ---
-title: ✍️ Notes
+title: ✍️ 生活流水
 type: book # Do not modify.
 toc: false
 
 cover:
-  image: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+  image: covers/自行车道-220528-01.jpg
+  caption: 渭河
 ---
 
-Welcome to the _Notes_ template!
+这里是我的 _生活流水_, 缘分!
 
-The **Notes** starter template empowers you to easily create  **personal notes** and **knowledge bases** in a future-proof way.
+这两年发现自己记忆力越来越迟钝, 细想发现旅程已近半, 就想找个由头写写生活的点点滴滴.
 
-- It is your second brain 🧠, stored in future-proof Markdown files 
-- Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- Edit your notes online in GitHub, or any Git-connected Markdown app such as [Obsidian](https://obsidian.md/) or [Visual Studio Code](https://vscode.dev/)
 
-## Public vs Private Second Brain
+## 生活随笔
 
-Choose between **publishing and sharing your knowledge online or creating a private second brain**.
+随着年岁增长, 发现生活是一件有味道的事情; 可惜记忆总是靠不住, 把它们写下来吧.
 
-To create an **open second brain**, share your notes as a website [by deploying the Note template](https://wowchemy.com/hugo-themes/).
+- {{< cta cta_text="周末记录-220701" cta_link="machine-learning" >}}
 
-To create a **private second brain** either:
+## 读书笔记
 
-- After deploying your Notes site above, [password protect your online second brain](https://docs.netlify.com/visitor-access/password-protection/) and configure your GitHub repo as **private**
-- [Download this template](https://github.com/wowchemy/hugo-notes-theme) and [run the tool locally](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
-
-## Example notebook
-
-{{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
+- 我一定要开始读书了 ... 
