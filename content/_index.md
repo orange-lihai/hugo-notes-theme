@@ -4,7 +4,7 @@ type: book # Do not modify.
 toc: false
 
 cover:
-  image: "covers/自行车道-220528-01.jpg"
+  image: "covers/自行车道-220528-01.jpeg"
   caption: 渭河
 ---
 
