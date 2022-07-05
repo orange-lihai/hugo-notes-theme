@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'My Life Notes' # Website name
+title: '骄阳似火' # Website name
 baseURL: 'https://churen.biz/' # Website URL
 
 ############################
@@ -14,16 +14,16 @@ cascade:
   # Docs folder options
   - _target:
       path: /**
-    editable: true
+    editable: false
     show_breadcrumb: true
 
 ############################
 ## LANGUAGE
 ############################
 
-languageCode: en-us
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+languageCode: zh-CN
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
