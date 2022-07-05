@@ -7,6 +7,8 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: 周末日记
+    url: /周末日记
   - name: Tags
       identifier: tags
       weight: 20
