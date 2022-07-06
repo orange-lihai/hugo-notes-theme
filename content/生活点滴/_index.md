@@ -3,7 +3,7 @@
 title: 生活点滴
 linktitle: 生活点滴
 summary: 记录一些生活流水.
-weight: 2
+weight: 1
 icon: sun
 # icon_pack: fab
 
