@@ -2,13 +2,13 @@
 # Title, summary, and page position.
 title: 生活点滴
 linktitle: 生活点滴
-summary: Notes on Python data structures.
+summary: 记录一些生活流水.
 weight: 2
 icon: sun
 # icon_pack: fab
 
 # Page metadata.
-date: '2018-09-09T00:00:00Z'
+date: '2022-07-01T00:00:00Z'
 type: book # Do not modify.
 toc: false
 ---
