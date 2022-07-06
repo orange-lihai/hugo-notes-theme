@@ -2,13 +2,13 @@
 # Title, summary, and page position.
 title: 读书笔记
 linktitle: 读书笔记
-summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+summary: 真的需要开始看书了
 weight: 2
 icon: book
 icon_pack: fas
 
 # Page metadata.
-date: '2018-09-09T00:00:00Z'
+date: '2022-07-06T20:00:00+08:00'
 type: book # Do not modify.
 toc: false
 ---
