@@ -10,6 +10,6 @@ weight: 1
 这是一本非常优秀的计算机类书籍.
 
 ### 封面
-![编码的奥秘](book-code.png)
+![编码的奥秘](book-code/book-code.png)
 
 ### 读后感

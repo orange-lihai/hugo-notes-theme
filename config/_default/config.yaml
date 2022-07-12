@@ -3,6 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+# hogo server 启动错误: http://www.mysmu.edu/faculty/jwwang/post/building-your-website-with-hugo-and-rmarkdown/
+
 title: '骄阳似火' # Website name
 baseURL: 'https://churen.biz/' # Website URL
 
